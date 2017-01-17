@@ -1,2 +1,3 @@
 # Widgets JavaFX test
-Widget for all patforms - starting model
+Widget for all patforms - early stage...
+Creating desktop widgets, system shortcuts for shutdown, restart and logoff computer. Code is writing in JavaFX, icons are modeling in 3ds Max, Corel Draw and Photoshop.
