@@ -1,4 +1,7 @@
 # Widgets JavaFX test
+![images](https://github.com/stivbanch/Widget-JavaFX-test/blob/master/Screenshots/Widget4.png)
+
+
 Widget for all platforms - early stage.
 
 Creating desktop widgets, system shortcuts for shutdown, restart and logoff computer.
