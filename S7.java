@@ -51,7 +51,7 @@ public class S7 extends Application {
     private double orgScreenX, orgScreenY;
     private double orgTranslateX, orgTranslateY;
 
-    File file = new File("C:\\WinCTRL\\Preferences.txt");
+    File file = new File("Preferences.txt");
 
     double pic5x = 0;
     double pic5y = 0;
@@ -434,7 +434,7 @@ public class S7 extends Application {
             public void handle(MouseEvent event) {
 
                 try {
-                    PrintWriter output = new PrintWriter("C:\\WinCTRL\\Preferences.txt");
+                    PrintWriter output = new PrintWriter("Preferences.txt");
 
                     output.println((pic5.getX() + ((pic5)).getTranslateX()) - 200);
                     output.println((pic5.getY() + ((pic5)).getTranslateY()) - 10);
@@ -531,7 +531,7 @@ public class S7 extends Application {
             public void handle(MouseEvent event) {
 
                 try {
-                    PrintWriter output = new PrintWriter("C:\\WinCTRL\\Preferences.txt");
+                    PrintWriter output = new PrintWriter("Preferences.txt");
 
                     output.println((pic5.getX() + ((pic5)).getTranslateX()) - 200);
                     output.println((pic5.getY() + ((pic5)).getTranslateY()) - 10);
@@ -630,7 +630,7 @@ public class S7 extends Application {
             public void handle(MouseEvent event) {
 
                 try {
-                    PrintWriter output = new PrintWriter("C:\\WinCTRL\\Preferences.txt");
+                    PrintWriter output = new PrintWriter("Preferences.txt");
 
                     output.println((pic5.getX() + ((pic5)).getTranslateX()) - 200);
                     output.println((pic5.getY() + ((pic5)).getTranslateY()) - 10);
