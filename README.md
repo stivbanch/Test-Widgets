@@ -10,7 +10,7 @@ Idea is that if you want, you can have single system shortcut icon for faster
 manipulation OS, what ever user need to monitoring in real time on his computer.
 
 Every single icon can be placed where you want on desktop using "move" icon, 
-application will remember possition, leaving maximum workspace that user need
+application will remember position, leaving maximum workspace that user need
 for his desktop.
 
 Application is tested on Windows 10 and Linux Ubuntu v16.04.
